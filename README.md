@@ -3,8 +3,6 @@
   
 ![](https://revistapesquisa.fapesp.br/wp-content/uploads/2019/05/094-098_Carreiras_279-0-1140px-abre.jpg")
   
-
-
 <p align="center"> 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omahin&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/omahin/github-readme-stats)
