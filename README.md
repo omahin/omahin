@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋🏽, I'm Olga Mahin </h2>
-<h3 align="center">A developer backend jr 🌱💪🏼 </h3
 
 ![](https://revistapesquisa.fapesp.br/wp-content/uploads/2019/05/094-098_Carreiras_279-0-1140px-abre.jpg")
   
